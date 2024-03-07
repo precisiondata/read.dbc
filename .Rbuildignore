@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+.github
+.vscode
+Makefile
+^cran-comments\.md$
+^revdep$
+^CRAN-SUBMISSION$
